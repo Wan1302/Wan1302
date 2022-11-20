@@ -1,5 +1,8 @@
-![image](https://github.com/Wan1302/demogit/blob/main/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966.gif)
+<div align="center">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 70%" />
+</div>  
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Make+It+Right" alt="Typing SVG" /></a>
 
 - 👋 Hi, I’m @Wan1302
 - 👀 I’m interested in ...
