@@ -26,7 +26,7 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/duyquang1302/" target="_blank">
-<img src=https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/45/ec/c345ecd3-298d-a293-97d3-ea1c50c255be/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png />
+<img src=https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/45/ec/c345ecd3-298d-a293-97d3-ea1c50c255be/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png alt=instagram style="margin-bottom: 5px;" />
 </a>
 </a>
 <a href="https://zalo.me/0822004132" target="_blank">
