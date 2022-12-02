@@ -27,7 +27,10 @@
 </a>
 <a href="https://www.instagram.com/duyquang1302/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+</a>
+<a href="https://zalo.me/0822004132" target="_blank">
+<img src=https://img.shields.io/badge/zalo-%23000000.svg?&style=for-the-badge&logo=zalo&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </div> 
 
 
