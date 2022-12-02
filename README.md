@@ -22,13 +22,13 @@
 
 ## How to reach me
 <div align="center">
-<a href="https://www.facebook.com/duyquang.hotrong.5" target="____blank">
+<a href="https://www.facebook.com/duyquang.hotrong.5" target="_blank">
 <img src=https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg alt=facebook width=100 height=100>
 </a>
-<a href="https://www.instagram.com/duyquang1302/" target="___blank">
+<a href="https://www.instagram.com/duyquang1302/" target="_blank">
 <img src=https://play-lh.googleusercontent.com/LM9vBt64KdRxLFRPMpNM6OvnGTGoUFSXYV-w-cGVeUxhgFWkCsfsPSJ5GYh7x9qKqw alt=instagram width=100 height=100 >
 </a>
-<a href="https://zalo.me/0822004132/" target="___blank">
+<a href="https://zalo.me/0822004132/" target="_blank">
 <img src=https://play-lh.googleusercontent.com/rFIOt4fDSCgJh_FkHU2qP8YiZUUhfVoKoNfQFbPEM-Wl8zuyuwn7vzkEx_XMh5B6FfO3 alt=zalo width=100 height=100 >
 </a>
 </div> 
