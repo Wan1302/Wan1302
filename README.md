@@ -30,7 +30,7 @@
 </a>
 </a>
 <a href="https://zalo.me/0822004132" target="_blank">
-<img src=https://play-lh.googleusercontent.com/rFIOt4fDSCgJh_FkHU2qP8YiZUUhfVoKoNfQFbPEM-Wl8zuyuwn7vzkEx_XMh5B6FfO3-%232E87FB alt=instagram style="margin-bottom: 5px;" />
+<img src=https://play-lh.googleusercontent.com/rFIOt4fDSCgJh_FkHU2qP8YiZUUhfVoKoNfQFbPEM-Wl8zuyuwn7vzkEx_XMh5B6FfO3-%232E87FB alt=zalo style="margin-bottom: 5px;" />
 </div> 
 
 ## My level: Junior
