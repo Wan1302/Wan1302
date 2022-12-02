@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif" align="center" style="width: 70%" />
+  <img src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif" align="center" style="width:880%" />
 </div>  
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 ## How to reach me
 <div align="center">
-<a href="https://www.facebook.com/duyquang.hotrong.5" target="____________________blank">
+<a href="https://www.facebook.com/duyquang.hotrong.5" target="_blank">
 <img src=https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg alt=facebook width=100 height=100>
 </a>
 <a href="https://www.instagram.com/duyquang1302/" target="_blank">
