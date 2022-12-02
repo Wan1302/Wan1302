@@ -10,16 +10,12 @@
 - 😄 You can call me Wan!
 - 🌱 I'm currently learning Computer Science.
 - 🐋 I'm a member of Trainee Program.
-
 <br/>
-
 ## My favourites
 - ⚽ Playing football.
 - 🎮 Playing video games.
 - 🎞️ Watching films.
-
 <br/>
-
 ## How to reach me
 <div align="center">
 <a href="https://www.facebook.com/duyquang.hotrong.5" target="_blank">
