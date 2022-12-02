@@ -8,15 +8,15 @@
 
 ## Hi I'm Quang , a student of University of Information Technology
 - 😄 You can call me Wan!
-- 🌱 I'm currently learning Computer Science
-- 🐋 I'm a member of Trainee Program
+- 🌱 I'm currently learning Computer Science.
+- 🐋 I'm a member of Trainee Program.
 
 <br/>
 
 ## My favourites
-- ⚽ Playing football
-- 🎮 Playing video games
-- 🎞️ Watching films
+- ⚽ Playing football.
+- 🎮 Playing video games.
+- 🎞️ Watching films.
 
 <br/>
 
