@@ -33,6 +33,11 @@
 <img src=https://img.shields.io/badge/zalo-%23000000.svg?&style=for-the-badge&logo=zalo&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </div> 
 
+## My level: Junior
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+
+</div>
 
 <!---
 Wan1302/Wan1302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
