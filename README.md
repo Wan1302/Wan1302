@@ -6,12 +6,30 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome to my profile!" alt="Typing SVG" /></a>
  </div>
 
-- 👋 Hi, I’m @Wan1302
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi I'm Quang , a student of University of Information Technology
+- 😄 You can call me Wan!
+- 🌱 I'm currently learning Computer Science
+- 🐋 I'm a member of Trainee Program
+
 <br/>
+
+## My favourites
+- ⚽ Playing football
+- 🎮 Playing video games
+- 🎞️ Watching films
+
+<br/>
+
+## How to reach me
+<div align="center">
+<a href="https://www.facebook.com/duyquang.hotrong.5" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/duyquang1302/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div> 
+
 
 <!---
 Wan1302/Wan1302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
