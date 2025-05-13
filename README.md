@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome to my profile!"/></a>
- </div>
+</div>
 
 ## Hi I'm Quang , a student of University of Information Technology
 - 😄 You can call me Wan!
