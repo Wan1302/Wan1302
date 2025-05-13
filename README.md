@@ -9,7 +9,6 @@
 ## Hi I'm Quang , a student of University of Information Technology
 - 😄 You can call me Wan!
 - 🌱 I'm currently learning Computer Science.
-- 🐋 I'm a member of Trainee Program , majoring in field of system.
 
 <br/>
 
